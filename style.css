@@ -38,6 +38,7 @@ header.startup h1 {
 
 .btn {
   font-weight: 700;
+  margin: 0 auto;
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
