@@ -40,10 +40,12 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  border: 5px solid #A97817;
 }
 
 .btn-xl {
   padding: .8rem 2rem;
+  border: 5px solid #A97817;
 }
 
 .btn-primary {
@@ -59,4 +61,5 @@ header.startup h1 {
   color: #ffffff;
   border-width: 4px;
   cursor: pointer;
+  border: 5px solid #A97817;
 }
