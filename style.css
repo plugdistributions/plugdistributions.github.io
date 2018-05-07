@@ -48,7 +48,9 @@ header.startup h1 {
 
 .btn-primary {
   background-color: #006600;
-  border-color: #ffffff; }
+  border-color: #ffffff;
+  border: 5px solid #A97817;
+}
 
 .btn-primary:hover {
   transition: .1s;
